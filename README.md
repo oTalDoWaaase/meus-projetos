@@ -1,5 +1,33 @@
-# Meus Projetos
+# 🚀 **Meus Projetos**
 
-Este repositório contém projetos desenvolvidos durante o curso de Ciência da Computação.
+Este repositório contém projetos desenvolvidos durante o curso de Ciência da Computação. Cada projeto reflete um pouco do meu aprendizado e minhas experiências na programação em Python. 😊
 
-Para mais detalhes sobre mim e os projetos, visite o [meu perfil no GitHub](https://github.com/oTalDoWaaase).
+---
+
+## 📌 **Sobre Mim**
+Sou Luís Eduardo, estudante de Ciência da Computação, explorando o mundo da programação com foco em Python. Tenho interesse em aprender mais sobre tecnologias inovadoras e compartilhar meu progresso!
+
+Para mais detalhes sobre mim e os projetos, visite:
+
+- 🌐 [**Meu Perfil no GitHub**](https://github.com/oTalDoWaaase)
+- 📺 [**Meu Canal no YouTube**](https://www.youtube.com/@LuisEduardoMenezes)
+- 💼 [**Meu LinkedIn**](https://www.linkedin.com/in/luiseduardo-menezes)
+
+---
+
+## 🗂️ **Projetos Disponíveis**
+1. **Cronômetro Python** ⏱️ - Um cronômetro simples em Python utilizando Tkinter. [Veja Mais](https://github.com/oTalDoWaaase/meus-projetos/tree/main/cronometro_python)
+2. **Calculadora Básica** 🔢 - Calculadora que faz as quatro operações matemáticas básicas. [Veja Mais](https://github.com/oTalDoWaaase/meus-projetos/tree/main/introducao_python)
+
+---
+
+## 🎥 **Vamos Conectar?**
+Fique à vontade para explorar meus conteúdos e aprender mais sobre tecnologia e programação! Estou sempre em busca de novas experiências e colaborações.
+
+---
+
+<div align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn Logo" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Logo" width="80"/>
+</div>
