@@ -4,13 +4,6 @@ Este projeto contém exercícios básicos de introdução ao Python, cobrindo te
 
 ---
 
-## 📑 **Tabela de Conteúdo**:
-1. [Conteúdo](#-conteúdo)
-2. [Como Rodar](#️-como-rodar)
-3. [Imagem do Projeto](#-imagem-do-projeto)
-
----
-
 ### 📋 **Conteúdo**:
 - Códigos exemplificando conceitos básicos de Python.
 - Exercícios simples para quem está começando na programação.
