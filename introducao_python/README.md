@@ -16,5 +16,5 @@ Para visualizar os exemplos, basta executar o arquivo `introducao.py` em seu amb
 ---
 
 <div align="center">
-  <img src="https://github.com/oTalDoWaaase/meus-projetos/blob/main/assets/cal.png" alt="Imagem da Calculadora" width="400"/>
+  <img src="https://github.com/oTalDoWaaase/meus-projetos/blob/main/assets/calculadora.png" alt="Imagem da Calculadora" width="400"/>
 </div>
