@@ -8,4 +8,4 @@ Este projeto é um cronômetro feito em Python utilizando a biblioteca Tkinter. 
 
 ### Como rodar
 Para executar o projeto, você precisa ter o Python instalado. Basta executar o arquivo `cronometro.py` em seu ambiente.
- <img src="https://github.com/oTalDoWaaase/projetos-faculdade/blob/main/dreamcore_stoptemp.png" alt="Cronômetro" width="300"/>
+ <img src="https://github.com/oTalDoWaaase/meus-projetos/blob/main/assets/cronometro.png" alt="Cronômetro" width="300"/>
