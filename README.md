@@ -1,4 +1,10 @@
 # 🚀 **Meus Projetos**
+<div align="center">
+  <a href="https://github.com/oTalDoWaaase/meus-projetos" target="_blank">
+    <button style="padding: 10px 20px; background-color: #0366d6; color: white; border: none; border-radius: 5px; cursor: pointer;">Ver Projetos no GitHub</button>
+  </a>
+</div>
+
 
 Este repositório contém projetos desenvolvidos durante o curso de Ciência da Computação. Cada projeto reflete um pouco do meu aprendizado e minhas experiências na programação em Python. 😊
 
