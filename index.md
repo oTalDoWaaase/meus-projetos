@@ -1,6 +1,5 @@
 # 🐍 Luís Eduardo Menezes
 
-![Imagem de Apresentação](https://github.com/oTalDoWaaase/meus-projetos/blob/main/assets/banner.png)
 
 ## 🧑‍💻 Sobre Mim
 Olá! Eu sou Luís Eduardo, estudante de Ciência da Computação. Sou apaixonado por tecnologia e estou explorando o mundo da programação com foco em Python. Gosto de trabalhar em projetos desafiadores e compartilhar meus aprendizados ao longo da minha jornada. 🚀
