@@ -5,8 +5,6 @@
 ## 🧑‍💻 Sobre Mim
 Olá! Eu sou Luís Eduardo, estudante de Ciência da Computação. Sou apaixonado por tecnologia e estou explorando o mundo da programação com foco em Python. Gosto de trabalhar em projetos desafiadores e compartilhar meus aprendizados ao longo da minha jornada. 🚀
 
-Neste site, você encontrará alguns dos meus projetos desenvolvidos ao longo da faculdade, que mostram um pouco do meu aprendizado em programação e desenvolvimento de software.
-
 ## 🚀 Projetos em Destaque
 
 ### 🕒 Cronômetro Python
