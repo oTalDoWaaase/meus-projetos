@@ -13,14 +13,6 @@ Para mais detalhes sobre mim e os projetos, visite:
 - 📺 [**Meu Canal no YouTube**](https://www.youtube.com/@LuisEduardoMenezes)
 - 💼 [**Meu LinkedIn**](https://www.linkedin.com/in/luiseduardo-menezes)
 
----
-
-## 🗂️ **Projetos Disponíveis**
-1. **Cronômetro Python** ⏱️ - Um cronômetro simples em Python utilizando Tkinter. [Veja Mais](https://github.com/oTalDoWaaase/meus-projetos/tree/main/cronometro_python)
-2. **Calculadora Básica** 🔢 - Calculadora que faz as quatro operações matemáticas básicas. [Veja Mais](https://github.com/oTalDoWaaase/meus-projetos/tree/main/introducao_python)
-
----
-
 ## 🎥 **Vamos Conectar?**
 Fique à vontade para explorar meus conteúdos e aprender mais sobre tecnologia e programação! Estou sempre em busca de novas experiências e colaborações.
 
